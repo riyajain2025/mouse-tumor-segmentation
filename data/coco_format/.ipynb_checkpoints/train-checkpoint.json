@@ -1,0 +1,13 @@
+{
+    "annotations": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Tumor",
+            "supercategory": "Tumor"
+        }
+    ],
+    "images": [],
+    "info": {},
+    "licenses": []
+}
