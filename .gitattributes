@@ -4,3 +4,4 @@ mito_model_checkpoint3.pth filter=lfs diff=lfs merge=lfs -text
 mito_model_checkpoint4.pth filter=lfs diff=lfs merge=lfs -text
 mito-model-checkpoint5.pth filter=lfs diff=lfs merge=lfs -text
 mito_model_checkpoint5.pth filter=lfs diff=lfs merge=lfs -text
+mito_model_checkpoint6.pth filter=lfs diff=lfs merge=lfs -text
